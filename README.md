@@ -53,7 +53,7 @@ onlinebookstore
 Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/onlinebookstore.git
+git clone https://github.com/Kavyagundeti/onlinebookstore.git
 ```
 
 Navigate to project folder:
