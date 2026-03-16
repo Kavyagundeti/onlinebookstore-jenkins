@@ -24,9 +24,7 @@ The application allows users to browse available books, login as an admin or use
 ---
 
 ## 📂 Project Structure
-
-
-onlinebookstore-jenkins
+```onlinebookstore-jenkins
 │
 ├── pom.xml
 ├── .gitignore
@@ -38,7 +36,7 @@ onlinebookstore-jenkins
 ├── image3.png
 ├── login page.png
 │
-└── README.md
+└── README.md```
 
 
 ---
@@ -68,9 +66,9 @@ Developer → GitHub → Jenkins → Maven Build → WAR File → Tomcat Deploym
 ## ⚙️ Build Process
 
 Build the project using Maven:
-`mvn clean package
+`mvn clean package`
 After a successful build, Maven generates the WAR file:
-target/onlinebookstore-0.0.1-SNAPSHOT.war` 
+`target/onlinebookstore-0.0.1-SNAPSHOT.war` 
 
 
 ---
