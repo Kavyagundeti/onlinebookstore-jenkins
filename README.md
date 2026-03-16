@@ -66,9 +66,9 @@ Developer → GitHub → Jenkins → Maven Build → WAR File → Tomcat Deploym
 
 ## ⚙️ Build Process
 
-Build the project using Maven:
+ * Build the project using Maven:
 `mvn clean package`
-After a successful build, Maven generates the WAR file:
+* After a successful build, Maven generates the WAR file:
 `target/onlinebookstore-0.0.1-SNAPSHOT.war` 
 
 
