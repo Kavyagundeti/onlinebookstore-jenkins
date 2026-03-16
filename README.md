@@ -78,7 +78,7 @@ Developer → GitHub → Jenkins → Maven Build → WAR File → Tomcat Deploym
 
 The generated WAR file is deployed into the **Tomcat webapps directory**.
 
-Example:
+* Example:
 `cp onlinebookstore-0.0.1-SNAPSHOT.war apache-tomcat/webapps/`
 
 ### Restart the Tomcat server:
@@ -93,7 +93,7 @@ Example:
 
 Once deployed, open the application in the browser:
 `http://<SERVER-IP>:8081/onlinebookstore-0.0.1-SNAPSHOT`
-Example:
+* Example:
 http://54.234.35.251:8081/onlinebookstore-0.0.1-SNAPSHOT
 
 
